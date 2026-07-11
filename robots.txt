@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Allow: /index.html
+
+# Optimization configurations for TypingWire Repositories
+Sitemap: https://typingwire-oss.github.io/ib-pa-steno-transcription-simulator/sitemap.xml
